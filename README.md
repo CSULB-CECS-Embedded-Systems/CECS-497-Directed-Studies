@@ -1,7 +1,7 @@
 # CECS 497 Directed Research Project
 
-Student: `Eric Santana`  
-Project: `MCU-Based Environmental Sensor Node with Long-Range Wireless Communication`  
+Student: `[Name]`  
+Project: `[Project title]`  
 Semester: Fall 2026  
 Faculty supervisor: Dr. Min He
 
