@@ -72,7 +72,6 @@ How can the system determine whether data received by the base station is correc
 
 | Constraint or risk | Likely effect | Planned response |
 |---|---|---|
-
 | `Wireless interference & obstacles` | `Packet loss or corrupted data` | `Examine received data` |
 | `Data corruption` | `Incorrect sensor values could be interpreted as valid` | `Implement and error detection method` |
 | `Sensor and ADC noise` | `Sensor reading fluctuate` | `Get a baseline of sensor measurements before wireless test` |
@@ -81,7 +80,6 @@ How can the system determine whether data received by the base station is correc
 
 | Criterion | Target | Evidence |
 |---|---:|---|
-
 | `Environmental Sensing` | `1 Environmental sensor sampled successfully` | `Sensor reading & Code` |
 | `Wireless Communication` | `Successful wireless data transfer between the 2 MCUs` | `Terminal Output and system demo` |
 | `Data Integrity` | `System can identify invalid packets` | `Error detection testing` |
